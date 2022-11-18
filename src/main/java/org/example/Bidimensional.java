@@ -1,6 +1,6 @@
 package org.example;
 
-import java.awt.*;
+
 
 public abstract class Bidimensional extends FormaGeometrica{
     private String corFundo;
@@ -14,8 +14,5 @@ public abstract class Bidimensional extends FormaGeometrica{
 
     public abstract double getPerimetro();
 
-//    @Override
-//    public void desenhar() {
-//
-//    }
+
 }

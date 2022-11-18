@@ -20,6 +20,7 @@ public class Main {
 
         for(FormaGeometrica fo: formas){
             fo.desenhar();
+
         }
 
 //        l.desenhar();
